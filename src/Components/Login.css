@@ -1,0 +1,15 @@
+
+.maindiv{
+    margin-left: 36rem;
+    margin-top: 15rem;
+    box-shadow: 0 0 10px black;
+    width: 16rem;
+    height: 10rem;
+    text-align: center;
+    padding: 2%;
+    
+}
+
+ .maindiv > * {
+    margin: 15px;
+}

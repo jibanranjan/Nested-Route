@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.links{
+    width:60%;
+    /* background-color: blue; */
+}
+
+.btn{
+    width: 40%;
+}
+.mainDiv{
+    display: flex;
+    width: auto;
+    height:4rem;
+    background-color: black;
+    /* padding: 1%; */
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+.mainDiv > *{
+    margin-left: 54rem;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 2rem;
+}
